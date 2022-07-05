@@ -1,0 +1,47 @@
+.clr {
+    background-color: rgba(555, 0, 111, 0.1);
+    color: black;
+    border: 2px solid wheat;
+    font-family: Arial;
+    margin-top: 2%;
+    font-weight: 600;
+    font-size: 200%;
+}
+
+.cl {
+    background-color: yellow;
+    color: red;
+    border: 20px solid purple;
+    text-align: center;
+    font-size: 700%;
+    font-family: impact;
+    margin-bottom: 2%;
+}
+
+.sz {
+    font-size: 135%;
+    font-weight: 800%;
+}
+
+#font {
+    font-family: impact;
+}
+
+.bc {
+    background-image: url("https://cdn.pixabay.com/photo/2015/12/03/08/50/paper-1074131_960_720.jpg");
+}
+
+#sp {
+    text-indent: 5%;
+}
+
+#hc {
+    background-color: rgb(175, 225, 230);
+    border: 5px royalblue solid;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800%;
+}
+
+#tp {
+    margin-top: 0%;
+}
